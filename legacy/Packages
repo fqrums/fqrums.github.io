@@ -1,0 +1,53 @@
+Package: com.julioverne.cydown
+Version: 6.9.9
+Architecture: iphoneos-arm
+Maintainer: Julio
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Filename: ./debs/com.julioverne.cydown_6.9.9_iphoneos-arm.deb
+Size: 1540254
+MD5sum: 7cb7e585aca41ec1d863ad5b77ee5a37
+SHA1: 3a794aa3915f00fb5764f8a7dfd8fa8d7a891bbd
+SHA256: c2ef19ff2ea624bdf183bf9a6516aa1c13df9bcbf64abea0356be514f351b4b8
+Section: Tweaks
+Homepage: http://twitter.com/ijulioverne
+Description: Cydia Download Manager & Extra Features!
+Author: julioverne <julioverne@me.com>
+Depiction: http://julio.hackyouriphone.org/description.html?id=com.julioverne.cydown
+Icon: file:///Library/PreferenceBundles/CyDownSettings.bundle/CyDown@2x.png
+Name: CyDown
+
+Package: net.angelxwind.mobileterminal-applesdk
+Version: 521-karen-2
+Architecture: iphoneos-arm
+Maintainer: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Pre-Depends: firmware (>= 3.2), dpkg (>= 1.14.25-8)
+Depends: bash, coreutils, ncurses, system-cmds
+Filename: ./debs/net.angelxwind.mobileterminal-applesdk_521-karen-2.deb
+Size: 248692
+MD5sum: bf181c672ecb933abbf16bd1d0d3caab
+SHA1: c55a81145f6eb45df9de0092e9aead8b28146ad1
+SHA256: 9d0ed883788880e924d5a35e064980119c32949c68d92b288762e1e3dcc943dc
+Section: Terminal_Support
+Homepage: https://cydia.angelxwind.net
+Description: A Terminal emulator. This is a Terminal emulator for the iPhone. With it you can do all of your standard system administration tasks from anywhere: SSH into remote boxes, download files, edit configuration files, whatever.
+Author: Karen/あけみ (angelXwind) <angelXwind@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.mobileterminal-applesdk
+Name: MobileTerminal
+
+Package: trevir.Discord
+Version: 0.8.2
+Architecture: iphoneos-arm
+Maintainer: InvoxiPlayGames <webmaster@invoxiplaygames.uk
+Depends: firmware (>=5.0)
+Filename: ./debs/trevir.Discord_0.8.2.deb
+Size: 809152
+MD5sum: 336ea13fc34e95839f3592fe30198611
+SHA1: 557b417327e62f97c5cb56773a6a657ed8e2831d
+SHA256: d86bb4b6b678d879bb6e88ad07039ae0ed4a09fe2e9ba3aa3a82836cd5e8c24c
+Section: Social
+Description: Discord client for iOS 5 & 6 by Trevir
+Author: Trevir <triveri@outlook.com>
+Depiction: http://cydia.invoxiplaygames.uk/dp/classicdiscord.php
+Icon: file:///Applications/Discord.app/Icon@2x.png
+Name: Discord Classic
+

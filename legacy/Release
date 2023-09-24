@@ -1,0 +1,8 @@
+Origin: legacyrepo
+Label: legacyrepo
+Suite: beta
+Version: 0.1
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: legacyrepo
