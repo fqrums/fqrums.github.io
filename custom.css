@@ -1,0 +1,44 @@
+body {
+    background-color: rgb(72, 137, 101);
+    margin:0;
+}
+.normal {
+    background-color: rgb(78, 130, 101);
+    font-family: "Trebuchet MS", Tahoma, sans-serif;
+    color: rgb(206, 220, 242);
+    border: none;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+    font-size: 16px;
+    width: 50px;
+    height: 50px;
+}
+.normal:hover {
+    background-color: rgb(98, 150, 121);
+    font-family: "Trebuchet MS", Tahoma, sans-serif;
+    color: rgb(206, 220, 242);
+    border: none;
+    display: inline-block;
+    text-decoration: none;
+    cursor: pointer;
+}
+.btext {
+    color: rgb(206, 220, 242);
+    font-family: "Trebuchet MS", Tahoma, sans-serif;
+    font-size: 20px;
+    margin: 0;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+.bar{
+    background-color: rgb(58, 110, 81);
+    height: 60px;
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    z-index: 1;
+}
