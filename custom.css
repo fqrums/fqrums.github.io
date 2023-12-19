@@ -42,11 +42,3 @@ body {
     position: relative;
     z-index: 1;
 }
-.bottombar{
-    background-color: rgb(84, 46, 45);
-    height: 60px;
-    margin: 0px;
-    padding: 0px;
-    position: relative;
-    z-index: 1;
-}
