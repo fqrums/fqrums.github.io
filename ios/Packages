@@ -7,13 +7,17 @@ Architecture: iphoneos-arm
 Filename: ./debs/gameboy4iphone_v5.0.0.deb
 Size: 724180
 MD5sum: 86abd21f437c9d9fca5799ad0f551cdf
+Name: gameboy4iphone
+Description: GB/GBC emulator for iOS 3> devices!
 
 Package: com.fqrums.gpSphone
 Version: 6.6.7
 Section: Emulators
-Maintainer: Reposi3 <reposithree@gmail.com>
-Depends: firmware (<7.0)
+Maintainer:  Nobody
+Depends: firmware (>3.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/com.supermamon.oldpackage_1.0.0-1_iphoneos-arm.deb
+Filename: ./debs/gpSPhone6.6.7.deb
 Size: 1344736
 MD5sum: e47f342bd1a6df2e2f4f7a45b52df4cd
+Name: gPSphone
+Description: GBA emulator for iOS 3> devices!
