@@ -45,6 +45,27 @@ body {
   transform: translate(-50%, -50%);
 }
 
+.buttonxd {
+  color: rgb(237, 245, 225);
+  background: rgb(39,35,64);
+  border: none;
+  font-size: 20px; 
+  width: 100px;
+  height: 30px;
+  position: absolute;
+  text-align: center;
+  left: 50%;
+  line-height: 30px;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+  transition-duration: 0.5s;
+}
+
+.buttonxd:hover {
+  background-color: rgb(237, 245, 225);
+  color: rgb(39,35,64);
+}
+
 @media screen and (max-width: 1000px) {
   .btext {
     font-size: 24px;
@@ -74,12 +95,14 @@ body {
 }
 
 .buttonbox {
-    background-color: rgb(29,25,54);
-    height: 50px;
-    width: 50%;
+    background-color: rgb(39,35,64);
+    height: 30px;
+    width: 100vw;
     left: 50%;
-    position: relative;
+    bottom: 91%;
+    position: absolute;
     transform: translateX(-50%);
+    text-align:center;
 }
 
 img {
