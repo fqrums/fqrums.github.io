@@ -4,7 +4,7 @@
 }
 
 body {
-    background-color: rgb(40,36,66);
+    background-color: rgb(20,20,20);
     margin: 0;
     font-family: 'open gotham', 'open sans-serif', sans-serif;
 }
@@ -47,7 +47,7 @@ body {
 
 .buttonxd {
   color: rgb(237, 245, 225);
-  background: rgb(39,35,64);
+  background: rgb(15,15,15);
   border: none;
   font-size: 20px; 
   width: 100px;
@@ -63,7 +63,7 @@ body {
 
 .buttonxd:hover {
   background-color: rgb(237, 245, 225);
-  color: rgb(39,35,64);
+  color: rgb(15,15,15);
 }
 
 @media screen and (max-width: 1000px) {
@@ -88,14 +88,14 @@ body {
 }
 
 .boxxed {
-    background-color: rgb(19,17,34);
+    background-color: rgb(27, 25, 28);
     height: 300px;
     padding: 20px;
     position: relative;
 }
 
 .buttonbox {
-    background-color: rgb(39,35,64);
+    background-color: rgb(15,15,15);
     height: 30px;
     width: 100vw;
     left: 50%;
