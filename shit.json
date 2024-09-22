@@ -1,0 +1,17 @@
+{
+    "groupName": "My Video Group",
+    "content": [
+        {
+            "name": "Introduction to Programming",
+            "url": "https://example.com/videos/programming_intro.m3u8"
+        },
+        {
+            "name": "Advanced iOS Development",
+            "url": "https://example.com/videos/advanced_ios.m3u8"
+        },
+        {
+            "name": "SwiftUI Basics",
+            "url": "https://example.com/videos/swiftui_basics.m3u8"
+        }
+    ]
+}
