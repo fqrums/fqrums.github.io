@@ -1,18 +1,30 @@
 {
-    "groups": [
+  "groups": [
+    {
+      "name": "Group 1",
+      "content": [
         {
-            "name": "Group 1",
-            "items": [
-                {"content": "Item 1", "videoURL": "http://example.com/video1.mp4"},
-                {"content": "Item 2", "videoURL": "http://example.com/video2.mp4"}
-            ]
+          "content_name": "Content 1",
+          "content_url": "https://example.com/content1"
         },
         {
-            "name": "Group 2",
-            "items": [
-                {"content": "Item A", "videoURL": "http://example.com/videoA.mp4"},
-                {"content": "Item B", "videoURL": "http://example.com/videoB.mp4"}
-            ]
+          "content_name": "Content 2",
+          "content_url": "https://example.com/content2"
         }
-    ]
+      ]
+    },
+    {
+      "name": "Group 2",
+      "content": [
+        {
+          "content_name": "Content 3",
+          "content_url": "https://example.com/content3"
+        },
+        {
+          "content_name": "Content 4",
+          "content_url": "https://example.com/content4"
+        }
+      ]
+    }
+  ]
 }
