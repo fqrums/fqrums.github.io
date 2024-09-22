@@ -1,30 +1,26 @@
 {
-  "groups": [
-    {
-      "name": "Group 1",
-      "content": [
+    "groups": [
         {
-          "content_name": "Content 1",
-          "content_url": "https://example.com/content1"
+            "groupName": "Group 1",
+            "content": [
+                {
+                    "contentName": "Content 1",
+                    "contentURL": "http://example.com/video1.mp4"
+                },
+                {
+                    "contentName": "Content 2",
+                    "contentURL": "http://example.com/video2.mp4"
+                }
+            ]
         },
         {
-          "content_name": "Content 2",
-          "content_url": "https://example.com/content2"
+            "groupName": "Group 2",
+            "content": [
+                {
+                    "contentName": "Content 3",
+                    "contentURL": "http://example.com/video3.mp4"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "name": "Group 2",
-      "content": [
-        {
-          "content_name": "Content 3",
-          "content_url": "https://example.com/content3"
-        },
-        {
-          "content_name": "Content 4",
-          "content_url": "https://example.com/content4"
-        }
-      ]
-    }
-  ]
+    ]
 }
