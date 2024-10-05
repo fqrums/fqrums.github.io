@@ -7,7 +7,7 @@
   ],
   "videoURLs": [
     "https://raw.githubusercontent.com/fqrums/fqrums.github.io/refs/heads/main/videos/tesak/tesak.m3u8",
-    "https://example.com/videos/second_video.mp4",
+    "https://raw.githubusercontent.com/fqrums/fqrums.github.io/refs/heads/main/videos/ets2/ets2.m3u8",
     "https://example.com/videos/third_video.mp4"
   ]
 }
