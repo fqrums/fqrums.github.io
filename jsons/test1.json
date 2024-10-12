@@ -1,0 +1,13 @@
+{
+  "content" : [
+    "POOP TEST LMAOO!!!",
+    "Second Video",
+    "Third Video"
+  ],
+  "videoURLs" : [
+    "https:\/\/raw.githubusercontent.com\/fqrums\/fqrums.github.io\/refs\/heads\/main\/videos\/tesak\/tesak.m3u8",
+    "https:\/\/raw.githubusercontent.com\/fqrums\/fqrums.github.io\/refs\/heads\/main\/videos\/ets2\/ets2.m3u8",
+    "https:\/\/example.com\/videos\/third_video.mp4"
+  ],
+  "groupName" : "My New Group"
+}
