@@ -20,6 +20,19 @@ body {
   padding: 13px;
 }
 
+.wide-page{
+  max-width: 90em;
+}
+
+.notwidediv{
+  max-width: 65em;
+}
+
+.wide-page .notwidediv {
+  max-width: 65em;
+  margin: auto;
+}
+
 @media (max-width: 684px) {
   body {
     font-size: 1.53rem;
