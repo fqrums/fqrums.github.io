@@ -12,7 +12,7 @@ html {
 
 .color {
   background-color: #222222;
-  outline: 2px solid #CC0F5F;
+  outline: 2px solid #ff7ea5;
   box-sizing: border-box;
 }
 body {
@@ -108,7 +108,7 @@ a:visited {
 }
 a:hover {
   color: #c9c9c9;
-  border-bottom: 2px solid #CC0F5F;
+  border-bottom: 2px solid #ffa0bd;
 }
 .a1{
   text-decoration: none;
@@ -132,9 +132,9 @@ blockquote {
   padding-top: 0.25em;
   padding-bottom: 0.25em;
   padding-right: 0.8em;
-  border-left: 3px solid #CC0F5F;
+  border-left: 3px solid #ffa0bd;
   margin-bottom: 2.5rem;
-  background-color: #cc0f5e5e;
+  background-color: #f6aac156;
 }
 
 blockquote p {
@@ -191,7 +191,7 @@ input, textarea {
   border: 1px solid #c9c9c9;
 }
 input:focus, textarea:focus {
-  border: 1px solid #c9c9c9;
+  border: 1px solid #ffffff;
 }
 
 textarea {
@@ -204,10 +204,10 @@ textarea {
   text-align: center;
   text-decoration: none;
   white-space: nowrap;
-  background-color: #CC0F5F;
+  background-color: #ffa0bd;
   color: #222222;
   border-radius: 1px;
-  border: 2px solid #444444;
+  border: 1px solid #ffa0bd;
   cursor: pointer;
   box-sizing: border-box;
 }
