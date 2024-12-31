@@ -1,8 +1,0 @@
-Origin: fq
-Label: fq repo
-Suite: stable
-Version: 1.0
-Codename: fq
-Architectures: iphoneos-arm
-Components: main
-Description: skibidi sigma tweaks
